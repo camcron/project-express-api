@@ -39,7 +39,7 @@ Run the server with npm start
 Access the API at http://localhost:8081
 
 # The API is also deployed and can be accessed at:
-https://project-express-api-cvzekbgn3q-lz.a.run.app/
+https://project-express-api-up7t32af6a-lz.a.run.app/
 
 # API docs can be viewed at:
 https://project-express-api-cvzekbgn3q-lz.a.run.app/api-docs/
